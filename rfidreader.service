@@ -1,0 +1,13 @@
+###  Place in /etc/systemd/system/
+
+[Unit]
+Description=RFID Reader
+After=multi-user.target
+
+[Service]
+Type=simple
+User=pi
+ExecStart=/usr/bin/python /usr/local/bin/rfid/rfidreader.py
+
+[Install]
+WantedBy=multi-user.target
