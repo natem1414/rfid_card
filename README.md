@@ -2,7 +2,7 @@
 
 #Equipment Needed:  
 Raspberry pi  
-Door Lock with GPI (can also send a TCP command, for example to HomeSeer)
+Door Lock with GPI (can also send a TCP command, for example to HomeSeer)  
 RS232 to USB  
 RFID Cards:
 https://www.ebay.com/itm/New-Contactless-125KHz-RFID-Proximity-Smart-ID-Card-1-8mm-Thinkness-EM4100-4102/291435244981?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
