@@ -1,3 +1,5 @@
+## Place in /usr/local/bin/rfid/rfidreader.py
+
 from threading import Thread
 import time
 import serial
