@@ -1,0 +1,15 @@
+;;;;Days of week:;;;Groups:
+;;;;1=Monday;;;01=Main Staff
+;;;;2=Tuesday;;;03=Staff
+;;;;3=Wednesday;;;04=Ambassador
+;;;;4=Thursday;;;05=Intern
+;;;;5=Friday;;;07=Producer
+;;;;6=Saturday;;;08=Producer Edit
+;;;;7=Sunday;;;
+;;;;- =not accessible;;;
+;;;;;;;
+Name;Card Number;Date Start;Date End;Days;Time Start;Time End;Groups
+
+DEAD;0;2001-01-01;2000-01-01;1234567;0:00;0:01;1
+NAME;11732451;2001-01-01;2020-01-01;20:00;03:00;01
+
