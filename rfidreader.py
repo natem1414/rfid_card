@@ -11,6 +11,7 @@ import commands
 import logging
 import logging
 
+#LOG FILE LOCATION
 logfilename= "/var/log/rfidreader.log"
 logging.basicConfig(level=logging.DEBUG, filename=logfilename, filemode='a', format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
@@ -39,8 +40,11 @@ def processID(ID,doornum):
   print ID
 #  print IDlength
 
+#Address for sending TCP command
   TCP_IP = '192.168.4.216'
+#Port for sending TCP command
   TCP_PORT = 4242
+	
 #set Door number
   DOORgpo = doornum + 4
   ERRORgpo = 4
