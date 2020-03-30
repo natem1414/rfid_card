@@ -1,6 +1,7 @@
 # rfid_card
 
 #Place in /usr/local/bin/rfid/rfidreader.py
+
 #card01.txt
 
 #card02.txt
@@ -17,13 +18,21 @@
 
 #card08.txt
 
+
+
 #Place in /etc/systemd/system/
 
 #rfidreader.service
 
+
+
+
 #Not Needed:
 
 #weekdaytest.py
+
+
+
 
 #Run command:
 
